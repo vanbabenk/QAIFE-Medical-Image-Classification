@@ -28,4 +28,5 @@ python QAIFE/QAIFE_BreastMNIST.py
 
 ## CITATION
 If you use this code, please cite:
+
 Ifran Lindu Mahargya et al., "Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Classification," submitted to Multimedia Tools and Applications - SPRINGER.
