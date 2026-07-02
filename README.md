@@ -1,7 +1,5 @@
-# QAIFE-Medical-Image-Classification
-Source code for QAIFE, QFE, and CNN experiments on five MedMNIST datasets.
-
 # QAIFE for Medical Image Classification
+Source code for QAIFE, QFE, and CNN experiments on five MedMNIST datasets.
 
 This repository contains the implementation of Quantum Attention Inspired Feature Extraction (QAIFE), Quantum Feature Extraction (QFE), and a matched lightweight CNN baseline for medical image classification using five MedMNIST datasets:
 
