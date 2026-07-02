@@ -21,6 +21,11 @@ This repository contains the implementation of Quantum Attention Inspired Featur
 All methods were evaluated using the same dataset preprocessing, training protocol, and five independent runs. The reported results in the manuscript correspond to the mean performance across the five runs. By default, the master code will call the Blood-MNIST dataset, please replace it with the appropriate dataset call.
 
 ## Installation
-
-```bash
 pip install -r requirements.txt
+
+## Usage Example
+python QAIFE/QAIFE_BreastMNIST.py
+
+## CITATION
+If you use this code, please cite:
+Ifran Lindu Mahargya et al., "Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Classification," submitted to Multimedia Tools and Applications - SPRINGER.
