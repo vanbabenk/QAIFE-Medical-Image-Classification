@@ -24,7 +24,7 @@ All methods were evaluated using the same dataset preprocessing, training protoc
 pip install -r requirements.txt
 
 ## Usage Example
-python QAIFE/QAIFE_BreastMNIST.py
+python QAIFE.ipynb
 
 ## CITATION
 If you use this code, please cite:
