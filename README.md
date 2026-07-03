@@ -11,9 +11,9 @@ This repository contains the implementation of Quantum Attention Inspired Featur
 
 ## Repository Structure
 
-- `QAIFE.py`: QAIFE master code implementations for each dataset.
-- `QFE.py`: QFE master code as baseline implementations for each dataset.
-- `CNN.py`: Matched lightweight CNN master code as baseline implementations for each dataset.
+- `notebooks/3_QAIFE.ipynb`: QAIFE master code implementations for each dataset.
+- `notebooks/2_QFE.ipynb`: QFE master code as baseline implementations for each dataset.
+- `notebooks/1_CNN.ipynb`: Matched lightweight CNN master code as baseline implementations for each dataset.
 - `requirements.txt`: Python package dependencies.
 
 ## Experimental Protocol
@@ -22,9 +22,10 @@ All methods were evaluated using the same dataset preprocessing, training protoc
 
 ## Installation
 pip install -r requirements.txt
+jupyter lab
 
 ## Usage Example
-python QAIFE.ipynb
+notebooks/3_QAIFE.ipynb
 
 ## CITATION
 If you use this code, please cite:
