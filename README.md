@@ -22,7 +22,6 @@ All methods were evaluated using the same dataset preprocessing, training protoc
 
 ## Installation
 pip install -r requirements.txt
-jupyter lab
 
 ## Usage Example
 notebooks/3_QAIFE.ipynb
