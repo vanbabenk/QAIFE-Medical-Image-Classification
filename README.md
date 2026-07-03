@@ -26,7 +26,19 @@ pip install -r requirements.txt
 ## Usage Example
 notebooks/3_QAIFE.ipynb
 
-## Run the code in Google Colab
+## Execution Environment
+
+The notebooks are designed and tested for execution on Google Colab.
+
+To reproduce an experiment:
+
+1. Click the corresponding “Open in Colab” button.
+2. Select `Runtime` → `Disconnect and delete runtime`.
+3. Select `Runtime` → `Run all`.
+4. The required packages and MedMNIST dataset will be installed and downloaded automatically.
+
+Google Colab hardware availability may vary across sessions. Therefore, minor differences in runtime and numerical results may occur.
+
 CNN Code:
 [![Convolutional Neural Network](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanbabenk/QAIFE-Medical-Image-Classification/blob/main/notebooks/1_CNN.ipynb)
 
