@@ -26,11 +26,14 @@ pip install -r requirements.txt
 ## Usage Example
 notebooks/3_QAIFE.ipynb
 
-## Open in Colab
+## Run the code in Google Colab
+CNN Code:
 [![Convolutional Neural Network](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanbabenk/QAIFE-Medical-Image-Classification/blob/main/notebooks/1_CNN.ipynb)
 
+QFE Code:
 [![Quantum Feature Extraction](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanbabenk/QAIFE-Medical-Image-Classification/blob/main/notebooks/2_QFE.ipynb)
 
+QAIFE Code:
 [![Quantum Attention Inspired Feature Extraction](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanbabenk/QAIFE-Medical-Image-Classification/blob/main/notebooks/3_QAIFE.ipynb)
 
 ## CITATION
