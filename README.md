@@ -51,4 +51,4 @@ QAIFE Code:
 ## CITATION
 If you use this code, please cite:
 
-Ifran Lindu Mahargya et al., "Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Classification", submitted to MULTIMEDIA TOOLS AND APPLICATIONS - SPRINGER.
+Ifran Lindu Mahargya et al., "Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Image Classification", submitted to MULTIMEDIA TOOLS AND APPLICATIONS - SPRINGER.
