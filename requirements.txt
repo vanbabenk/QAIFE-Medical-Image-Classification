@@ -1,0 +1,13 @@
+# Versions reported in the QAIFE manuscript
+torch==2.11.0
+pennylane==0.45.1
+medmnist==3.0.2
+
+# Notebook, data, metrics, and plotting dependencies
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+jupyterlab
