@@ -1,0 +1,24 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local data and model artifacts
+data/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Untracked tabular and serialized experiment exports
+*.csv
+*.json
+*.npz
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
