@@ -114,6 +114,10 @@ Ifran Lindu Mahargya, Guruh Fajar Shidik, Affandy, Pujiono, Supriadi Rustad, Her
 
 Publication link: to be updated after online publication in *Multimedia Tools and Applications*.
 
+## License
+
+The QAIFE source code in this repository is released under the MIT License. See the [LICENSE](LICENSE) file for details. MedMNIST datasets and third-party dependencies remain subject to their respective licenses.
+
 ## Notes
 
 - This repository is research software and is not intended for clinical use.
