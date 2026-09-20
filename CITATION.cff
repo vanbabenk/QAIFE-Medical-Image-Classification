@@ -6,6 +6,7 @@ message: >-
 title: "QAIFE Medical Image Classification"
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.xxxxxxx"
 date-released: "2026-09-20"
 license: MIT
 url: "https://github.com/vanbabenk/QAIFE-Medical-Image-Classification"
