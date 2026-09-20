@@ -107,12 +107,15 @@ Open one notebook from `notebooks/` and run all cells in order.
 
 The figures in `outputs/` are representative training curves and confusion matrices. Complete numerical tables and experimental discussion are provided in the manuscript.
 
-## Citation
+## Related manuscript
 
-**Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Image Classification**  
+This repository accompanies the manuscript:
+
+**“Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Image Classification.”**
 Ifran Lindu Mahargya, Guruh Fajar Shidik, Affandy, Pujiono, Supriadi Rustad, Hermawan Kresno Dipojono
 
-Publication link: to be updated after online publication in *Multimedia Tools and Applications*.
+The manuscript is currently under peer review.
+Publication link: The complete journal citation, publication link, and article DOI will be added after publication in *Multimedia Tools and Applications*
 
 ## License
 
