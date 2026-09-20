@@ -116,6 +116,9 @@ This repository accompanies the manuscript:
 **“Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Image Classification.”**
 Ifran Lindu Mahargya, Guruh Fajar Shidik, Affandy, Pujiono, Supriadi Rustad, Hermawan Kresno Dipojono
 
+Affiliation: 
+Faculty of Computer Science, Universitas Dian Nuswantoro Semarang, Indonesia
+
 The manuscript is currently under peer review.
 
 Publication link: The complete journal citation, publication link, and article DOI will be added after publication in *Multimedia Tools and Applications - Springer*.
