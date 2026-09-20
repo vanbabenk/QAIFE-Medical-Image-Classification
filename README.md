@@ -107,7 +107,7 @@ Open one notebook from `notebooks/` and run all cells in order.
 
 The figures in `outputs/` are representative training curves and confusion matrices. Complete numerical tables and experimental discussion are provided in the manuscript.
 
-## Related manuscript
+## Related Manuscript
 
 This repository accompanies the manuscript:
 
@@ -115,7 +115,8 @@ This repository accompanies the manuscript:
 Ifran Lindu Mahargya, Guruh Fajar Shidik, Affandy, Pujiono, Supriadi Rustad, Hermawan Kresno Dipojono
 
 The manuscript is currently under peer review.
-Publication link: The complete journal citation, publication link, and article DOI will be added after publication in *Multimedia Tools and Applications*
+
+Publication link: The complete journal citation, publication link, and article DOI will be added after publication in *Multimedia Tools and Applications - Springer*.
 
 ## License
 
