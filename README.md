@@ -117,11 +117,7 @@ This repository accompanies the manuscript:
 
 *Ifran Lindu Mahargya, Guruh Fajar Shidik, Affandy, Pujiono, Supriadi Rustad, Hermawan Kresno Dipojono*
 
-
-Affiliation: 
-
-*Faculty of Computer Science, Universitas Dian Nuswantoro Semarang, Indonesia*
-
+Affiliation: *Faculty of Computer Science, Universitas Dian Nuswantoro Semarang, Indonesia*
 
 The manuscript is currently under peer review.
 
