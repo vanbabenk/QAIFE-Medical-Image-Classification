@@ -1,5 +1,7 @@
 # QAIFE Medical Image Classification
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22854256.svg)](https://doi.org/10.5281/zenodo.22854256)
+
 Official public implementation of **QAIFE (Quantum Attention Inspired Feature Extraction)** for the five MedMNIST image-classification experiments reported in the manuscript.
 
 > **Repository scope:** this repository releases only the QAIFE implementation. Comparative QFE and CNN implementations are not included.
