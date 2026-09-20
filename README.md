@@ -114,10 +114,12 @@ The figures in `outputs/` are representative training curves and confusion matri
 This repository accompanies the manuscript:
 
 **“Novel Quantum Attention Inspired Feature Extraction for Efficient Medical Image Classification.”**
-Ifran Lindu Mahargya, Guruh Fajar Shidik, Affandy, Pujiono, Supriadi Rustad, Hermawan Kresno Dipojono
+
+*Ifran Lindu Mahargya, Guruh Fajar Shidik, Affandy, Pujiono, Supriadi Rustad, Hermawan Kresno Dipojono*
 
 Affiliation: 
-Faculty of Computer Science, Universitas Dian Nuswantoro Semarang, Indonesia
+
+*Faculty of Computer Science, Universitas Dian Nuswantoro Semarang, Indonesia*
 
 The manuscript is currently under peer review.
 
