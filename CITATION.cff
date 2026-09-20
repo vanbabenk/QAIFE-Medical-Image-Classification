@@ -34,9 +34,10 @@ authors:
     given-names: "Hermawan Kresno"
     affiliation: "Quantum and Nano Technologies Research Group, Institut Teknologi Bandung"
 keywords:
-  - "quantum attention"
+  - "quantum attention inspired feature extraction"
   - "quantum feature extraction"
   - "hybrid quantum-classical learning"
   - "medical image classification"
   - "MedMNIST"
   - "Pauli String ZZ measurement"
+  - "ancilla-based quantum attention"
