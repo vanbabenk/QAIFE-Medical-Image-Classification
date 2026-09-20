@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the archived QAIFE software
+  release. The citation of the related journal article will be added
+  after publication.
+title: "QAIFE Medical Image Classification"
+type: software
+version: "1.0.0"
+date-released: "2026-09-20"
+license: MIT
+url: "https://github.com/vanbabenk/QAIFE-Medical-Image-Classification"
+abstract: >-
+  QAIFE is a hybrid quantum-classical feature-extraction framework
+  for medical image classification. This repository provides executable
+  implementations for five MedMNIST subsets, dependency specifications,
+  execution instructions, and automatic single-run and five-run
+  configurations.
+authors:
+  - family-names: "Mahargya"
+    given-names: "Ifran Lindu"
+    affiliation: "Faculty of Computer Science, Universitas Dian Nuswantoro"
+  - family-names: "Shidik"
+    given-names: "Guruh Fajar"
+    affiliation: "Research Group Intelligence Distributed Surveillance and Security, Universitas Dian Nuswantoro"
+  - family-names: "Affandy"
+    affiliation: "Faculty of Computer Science, Universitas Dian Nuswantoro"
+  - family-names: "Pujiono"
+    affiliation: "Faculty of Computer Science, Universitas Dian Nuswantoro"
+  - family-names: "Rustad"
+    given-names: "Supriadi"
+    affiliation: "Faculty of Computer Science, Universitas Dian Nuswantoro"
+  - family-names: "Dipojono"
+    given-names: "Hermawan Kresno"
+    affiliation: "Quantum and Nano Technologies Research Group, Institut Teknologi Bandung"
+keywords:
+  - "quantum attention"
+  - "quantum feature extraction"
+  - "hybrid quantum-classical learning"
+  - "medical image classification"
+  - "MedMNIST"
+  - "Pauli String ZZ measurement"
